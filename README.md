@@ -2,7 +2,7 @@
 
 Script para ordenar uma lista de endereços por proximidade à um lugar predeterminado.
 
-Insira o caminho relativo do arquivo com os endereços em "entrada". Dependendo da extenção pode ser preciso baixar dependencias usando o pip.
+Insira o caminho relativo do arquivo com os endereços em "entrada". Dependendo da extensão pode ser preciso baixar dependencias usando o pip.
 
 A lista ordenada será salva no arquivo "ordenado.ods". 
 
